@@ -1,5 +1,5 @@
 #!/bin/sh
-#Script to diff 2 xml files from command prompt
+#Script to diff 2 xml files
 if [ $# -ne 2 ]
 then
 echo "Uses: ./xmldiffscript.sh oldfile newfile"
